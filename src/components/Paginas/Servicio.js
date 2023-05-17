@@ -19,7 +19,7 @@ const Servicio =()=> {
             <Card>
                 <img alt="card1" src={card1} width='635'></img>
                 <h2>Servicio taxi </h2>
-                <p> hola mundo necesito info para poner aquí </p>
+                <p> Te ofrecemos un servicio de taxi seguro y rápido. Más información aquí </p>
                 <Button variant="secondary bg-dark" as={Link} to="https://api.whatsapp.com/send?phone=3025179222" style={{color: 'white'}}>Pregúntanos</Button>
             </Card>
           </Col>
@@ -27,7 +27,7 @@ const Servicio =()=> {
             <Card>
                 <img alt="card2" src={card2} width='635'></img>
                 <h2>Servicio taxi eléctrico</h2>
-                <p> hola mundo necesito info para poner aquí </p>
+                <p>Te ofrecemos un servicio de taxi 100% eléctrico y amigable con el ambiente. Más información aquí</p>
                 <Button variant="secondary bg-dark" as={Link} to="https://api.whatsapp.com/send?phone=3025179222" style={{color: 'white'}}>Pregúntanos</Button>
             </Card>
           </Col>
@@ -37,7 +37,7 @@ const Servicio =()=> {
             <Card>
                 <img alt="card3" src={card3} width='635'></img>
                 <h2>Servicio automotriz</h2>
-                <p> hola mundo necesito info para poner aquí </p>
+                <p> Te ofrecemos servicios de alineación y balanceo, servicio de frenos, cambio de aceite, mecánica rápida, lubricantes, baterías y llantas. Más información aquí</p>
                 <Button variant="secondary bg-dark" as={Link} to="https://api.whatsapp.com/send?phone=3025179222" style={{color: 'white'}}>Pregúntanos</Button>
             </Card>
           </Col>
@@ -45,7 +45,7 @@ const Servicio =()=> {
             <Card>
                 <img alt="card4" src={card4} width='635'></img>
                 <h2>Servicio de carga</h2>
-                <p> hola mundo necesito info para poner aquí </p>
+                <p> Te ofrecemos servicio de carga en caso de que necesites transportar pesos pesados. Más informacion aquí </p>
                 <Button variant="secondary bg-dark" as={Link} to="https://api.whatsapp.com/send?phone=3025179222" style={{color: 'white'}}>Pregúntanos</Button>
             </Card>
           </Col>
